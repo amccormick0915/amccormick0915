@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amccormick0915
-- 👀 I’m interested in the field of Networking and Security! I currently have the basic understanding for some Internet Protocols and would like to further gain more in depth knowledge and skills!
+- 👀 I’m interested in the field of Networking and Security! I currently have the basic understanding for some Internet Protocols and would like to further gain more in depth knowledge and skills! I will also be undertaking Security Engineering and Distributed Systems in the Second Semester of my Final Year and am excited to learn about these two modules! 
 - 🌱 I’m currently studying Computer Science at Queen Mary University, London and I am in my Final Year!
 - 📫 How to reach me
       by email: annelynmccormick@yahoo.com 
