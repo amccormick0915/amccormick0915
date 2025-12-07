@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amccormick0915
-- 👀 I’m interested in the field of Software Development, Networking, and Security! I currently have a basic understanding of some Internet Protocols and am interested in further developing my knowledge and skills in each of these fields! 
+- 👋 Hi, I’m @amccormick0915 aka Maki/Mak
+- 👀 I’m interested in Java programming and the Gamemaker Language!
 - 🌱 I’m a graduate of Computer Science at Queen Mary University, London and have received 1st Class Honours!
 - 📫 How to reach me by email: annelynmccormick@yahoo.com 
 
